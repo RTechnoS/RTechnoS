@@ -5,7 +5,7 @@
 
 <p align = "center">
   
-<img width="46%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rtechnos&title_color=79ff97&icon_color=63a2ff&text_color=ffffff&bg_color=151515&hide=css%2Chtml&layout=compact" /><div><img width="53.8%" src="https://github-readme-stats.vercel.app/api?username=rtechnos&&show_icons=true&title_color=79ff97&icon_color=63a2ff&text_color=ffffff&bg_color=151515&hide=contribs" />
+<img width="53.8%" src="https://github-readme-stats.vercel.app/api?username=rtechnos&&show_icons=true&title_color=79ff97&icon_color=63a2ff&text_color=ffffff&bg_color=151515&hide=contribs" /><p><img width="46%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rtechnos&title_color=79ff97&icon_color=63a2ff&text_color=ffffff&bg_color=151515&hide=css%2Chtml&layout=compact" />
 
 [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/rusman_toby/)
 [![Visits Badge](https://badges.pufler.dev/visits/RTechnoS/RTechnoS?style=for-the-badge&color=blue)](https://github.com/RTechnoS/RTechnoS)
