@@ -1,4 +1,3 @@
-@OSSDAO-ORG•AIRDROP-0xdC9FA9DCE717F5D66b6ee30e04C56f74807D27df
 ## Hi 👋 I am Rusman!
 <p align = "center">
  <img width="44%" src="https://github-readme-stats.vercel.app/api?username=rtechnos&&show_icons=true&title_color=79ff97&icon_color=63a2ff&text_color=ffffff&bg_color=151515&hide=contribs"/>
