@@ -17,3 +17,4 @@
 </p>
 
 </details>
+<a href="https://trakteer.id/rtechs/tip" target="_blank"><img id="wse-buttons-preview" src="https://cdn.trakteer.id/images/embed/trbtn-red-5.png" style="border:0px;height:40px;" alt="Trakteer Saya" height="40"></a>
